@@ -17,7 +17,6 @@ from langchain_tavily import TavilySearch
 
 
 
-groq_api_key="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"
 
 
 models=[
